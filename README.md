@@ -28,10 +28,9 @@ A modern, responsive, and interactive To-Do List web application built using **H
 ## 📂 How to Use
 
 1. Clone or download this repository.
-2. Open `old.html` in any modern browser.
+2. Open `index.html` in any modern browser.
 3. Start adding tasks with category, priority, and due date.
 4. Reorder tasks using drag-and-drop.
-5. Enable Dark Mode and experience the 3D UI!
 
 
 
