@@ -6,6 +6,7 @@ A responsive and feature-rich **To-Do List Web App** built using HTML, CSS, and 
 
 
 
+
 ## 🚀 Features
 
 - ✅ Add, edit, complete, and delete tasks
@@ -20,6 +21,7 @@ A responsive and feature-rich **To-Do List Web App** built using HTML, CSS, and 
 
 
 
+
 ## 📂 How to Use
 
 1. **Clone or Download** this repository
@@ -27,6 +29,7 @@ A responsive and feature-rich **To-Do List Web App** built using HTML, CSS, and 
 3. Add tasks with title, due date/time, category, and priority
 4. Drag tasks to reorder them as needed
 5. Mark tasks as completed or delete them
+
 
 
 
@@ -59,8 +62,7 @@ A responsive and feature-rich **To-Do List Web App** built using HTML, CSS, and 
 
 ## 🛠 Deployment
 
-This project is live at:  
-🔗 [https://taskmanager.kalvinesan.com](https://taskmanager.kalvinesan.com)
+This project is live at:  🔗 [https://taskmanager.kalvinesan.com](https://taskmanager.kalvinesan.com)
 
 
 
@@ -72,8 +74,7 @@ This project is open-sourced under the [MIT License](LICENSE).
 
 ## ✨ Author
 
-Made with ❤️ by **Gobathi**  
-📸 [Instagram](https://instagram.com/thegobathi) | 🌐 [LinkedIn](https://www.linkedin.com/in/gobathi2020/)
+Made with ❤️ by **Gobathi**  📸 [Instagram](https://instagram.com/thegobathi) | 🌐 [LinkedIn](https://www.linkedin.com/in/gobathi2020/)
 
 
 
