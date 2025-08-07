@@ -1,16 +1,40 @@
-# 📝 3D Task Manager with Deadline Alerts & Drag-and-Drop
+# 📝 Task Manager – 3D Styled To-Do Web App
 
-A modern, responsive, and interactive To-Do List web application built using **HTML, CSS, and JavaScript**. This project combines productivity tools with a clean 3D-style user interface and real-time task interaction features.
+A responsive and feature-rich **To-Do List Web App** built using HTML, CSS, and JavaScript. This project features a clean 3D UI, real-time deadline alerts, drag-and-drop reordering, and a variety of useful task management features – all designed to boost productivity with modern aesthetics.
+
+🔗 **Live Demo:** [taskmanager.kalvinesan.com](https://taskmanager.kalvinesan.com)
+
 
 
 ## 🚀 Features
 
-- ✅ Add, complete, edit, and delete tasks
-- 🔁 Drag-and-drop task reordering
-- ⏰ Deadline alerts to notify when a task is due
-- 🧠 Smooth animations and hover effects
-- 🎨 3D UI components for buttons, inputs, and task cards
-- 📱 Fully responsive design for mobile and desktop
+- ✅ Add, edit, complete, and delete tasks
+- 🗂️ Task category support (Personal, Work, Future, Others)
+- 🔔 Deadline reminder alerts
+- 🏷️ Priority levels (High, Medium, Low) with visual color indicators
+- 🔄 Drag-and-drop task reordering
+- 🎨 3D modern UI design with subtle animations
+- 📊 Progress bar and task completion tracker
+- 🔍 Search bar to filter tasks
+- 📱 Fully responsive for all screen sizes
+
+
+
+## 📂 How to Use
+
+1. **Clone or Download** this repository
+2. Open `index.html` in any modern web browser
+3. Add tasks with title, due date/time, category, and priority
+4. Drag tasks to reorder them as needed
+5. Mark tasks as completed or delete them
+
+
+
+## 🧠 Technologies Used
+
+- **HTML5** – Structure
+- **CSS3** – 3D Design, Animations, Responsiveness
+- **JavaScript** – DOM Manipulation, Drag-and-Drop, Alert System
 
 
 
@@ -25,41 +49,31 @@ A modern, responsive, and interactive To-Do List web application built using **H
 
 
 
-## 📂 How to Use
+## 💡 Future Improvements (Optional)
 
-1. Clone or download this repository.
-2. Open `index.html` in any modern browser.
-3. Start adding tasks with category, priority, and due date.
-4. Reorder tasks using drag-and-drop.
-
-
-
-## 🛠️ Technologies Used
-
-- HTML5  
-- CSS3 (with custom 3D styling and animations)  
-- JavaScript (DOM manipulation, alerts, drag-and-drop)
+- LocalStorage or Firebase integration for saving tasks permanently
+- Real push notifications via Firebase Cloud Messaging
+- User authentication and profiles
 
 
 
-## 💡 Future Enhancements
+## 🛠 Deployment
 
-- Firebase integration for cloud storage and real push notifications
-- User authentication
-- LocalStorage persistence
-
+This project is live at:  
+🔗 [https://taskmanager.kalvinesan.com](https://taskmanager.kalvinesan.com)
 
 
-## 📬 Contact
-
-Made by Gobathi P  
-Connect with me: [Instagram](https://instagram.com/thegobathi) | [LinkedIn](https://www.linkedin.com/in/gobathi2020/)
-
----
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is open-sourced under the [MIT License](LICENSE).
+
+
+
+## ✨ Author
+
+Made with ❤️ by **Gobathi**  
+📸 [Instagram](https://instagram.com/thegobathi) | 🌐 [LinkedIn](https://www.linkedin.com/in/gobathi2020/)
 
 
 
