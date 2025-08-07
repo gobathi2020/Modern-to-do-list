@@ -2,7 +2,6 @@
 
 A modern, responsive, and interactive To-Do List web application built using **HTML, CSS, and JavaScript**. This project combines productivity tools with a clean 3D-style user interface and real-time task interaction features.
 
----
 
 ## 🚀 Features
 
@@ -13,7 +12,7 @@ A modern, responsive, and interactive To-Do List web application built using **H
 - 🎨 3D UI components for buttons, inputs, and task cards
 - 📱 Fully responsive design for mobile and desktop
 
----
+
 
 ## 📷 Screenshots
 
@@ -24,7 +23,7 @@ A modern, responsive, and interactive To-Do List web application built using **H
 <img width="1915" height="915" alt="image" src="https://github.com/user-attachments/assets/dceca834-2f02-4728-89c8-6f25533a5b70" />
 <img width="1915" height="909" alt="image" src="https://github.com/user-attachments/assets/f94e8f4e-784c-4250-8a78-3352ffb06f57" />
 
----
+
 
 ## 📂 How to Use
 
@@ -34,7 +33,7 @@ A modern, responsive, and interactive To-Do List web application built using **H
 4. Reorder tasks using drag-and-drop.
 5. Enable Dark Mode and experience the 3D UI!
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -42,7 +41,7 @@ A modern, responsive, and interactive To-Do List web application built using **H
 - CSS3 (with custom 3D styling and animations)  
 - JavaScript (DOM manipulation, alerts, drag-and-drop)
 
----
+
 
 ## 💡 Future Enhancements
 
@@ -50,7 +49,7 @@ A modern, responsive, and interactive To-Do List web application built using **H
 - User authentication
 - LocalStorage persistence
 
----
+
 
 ## 📬 Contact
 
