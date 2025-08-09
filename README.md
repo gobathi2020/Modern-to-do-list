@@ -2,7 +2,7 @@
 
 A responsive and feature-rich **To-Do List Web App** built using HTML, CSS, and JavaScript. This project features a clean 3D UI, real-time deadline alerts, drag-and-drop reordering, and a variety of useful task management features – all designed to boost productivity with modern aesthetics.
 
-🔗 **Live Demo:** [taskmanager.kalvinesan.com](https://taskmanager.kalvinesan.com)
+🔗 **Live Demo:** [https://modern-to-do-list-ivory.vercel.app/](https://modern-to-do-list-ivory.vercel.app/)
 
 
 
@@ -62,7 +62,7 @@ A responsive and feature-rich **To-Do List Web App** built using HTML, CSS, and 
 
 ## 🛠 Deployment
 
-This project is live at:  🔗 [https://taskmanager.kalvinesan.com](https://taskmanager.kalvinesan.com)
+This project is live at:  🔗  [https://modern-to-do-list-ivory.vercel.app/](https://modern-to-do-list-ivory.vercel.app/)
 
 
 
