@@ -52,7 +52,7 @@ A responsive and feature-rich **To-Do List Web App** built using HTML, CSS, and 
 
 
 
-## 💡 Future Improvements (Optional)
+## 💡 Future Improvements
 
 - LocalStorage or Firebase integration for saving tasks permanently
 - Real push notifications via Firebase Cloud Messaging
@@ -75,6 +75,3 @@ This project is open-sourced under the [MIT License](LICENSE).
 ## ✨ Author
 
 Made with ❤️ by **Gobathi**  📸 [Instagram](https://instagram.com/thegobathi) | 🌐 [LinkedIn](https://www.linkedin.com/in/gobathi2020/)
-
-
-
