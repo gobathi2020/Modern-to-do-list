@@ -1,6 +1,6 @@
 # 📝 Task Manager – 3D Styled To-Do Web App
 
-A responsive and feature-rich **To-Do List Web App** built using HTML, CSS, and JavaScript. This project features a clean 3D UI, real-time deadline alerts, drag-and-drop reordering, and a variety of useful task management features – all designed to boost productivity with modern aesthetics.
+A responsive and feature-rich **To-Do List Web App** built using HTML, CSS, and JavaScript. This project features a clean 3D UI, real-time deadline alerts, drag-and-drop reordering, and a variety of useful task management features all designed to boost productivity with modern aesthetics.
 
 🔗 **Live Demo:** [https://modern-to-do-list-ivory.vercel.app/](https://modern-to-do-list-ivory.vercel.app/)
 
@@ -35,9 +35,9 @@ A responsive and feature-rich **To-Do List Web App** built using HTML, CSS, and 
 
 ## 🧠 Technologies Used
 
-- **HTML5** – Structure
-- **CSS3** – 3D Design, Animations, Responsiveness
-- **JavaScript** – DOM Manipulation, Drag-and-Drop, Alert System
+- **HTML5** - Structure
+- **CSS3** - 3D Design, Animations, Responsiveness
+- **JavaScript** - DOM Manipulation, Drag-and-Drop, Alert System
 
 
 
